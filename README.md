@@ -1,2 +1,2 @@
-Link to page:
+Link to project site:
 https://snovydesigns.github.io/gsap-svglab/
